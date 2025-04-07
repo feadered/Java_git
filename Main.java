@@ -1,7 +1,7 @@
 package LAOQIAO;
 import java.util.Scanner;
 public class Main {
-	public static void main(String[] args) {
+	public static void main2(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double in = scanner.nextDouble();
         double out = 5*(in-32)/9;
